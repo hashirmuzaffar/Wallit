@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621163810635",
+    "project_id": "wallit-8b882",
+    "storage_bucket": "wallit-8b882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621163810635:android:374cd0883f481123c562ce",
+        "android_client_info": {
+          "package_name": "com.app.wallit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621163810635-i4p68li33sd0ibgimfo0trpqmu2qcecr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.wallit",
+            "certificate_hash": "ed19aad60722e5462e302426f7de0e86f1ddad83"
+          }
+        },
+        {
+          "client_id": "621163810635-nc74d2hc1p2d372l0k3fq3sngmdvo2hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjj1fBgmzU6GAAPEsEDhzEGEBxz498rtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621163810635-nc74d2hc1p2d372l0k3fq3sngmdvo2hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

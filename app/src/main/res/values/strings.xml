@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- home strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="add_balance">ADD BALANCE</string>
+    <string name="due_bills_amp_todo"><![CDATA[DUE BILLS & TODO]]></string>
+    <string name="back">BACK</string>
+    <string name="check_balance">CHECK BALANCE</string>
+    <string name="check_spending_history">CHECK SPENDING HISTORY</string>
+    <string name="add_today_s_spending">ADD TODAY’S SPENDING</string>
+    <string name="today_s_budge">TODAY’S BUDGET</string>
+    <string name="add_amount">ADD AMOUNT</string>
+    <string name="cick">CLICK HERE TO SIGN UP</string>
+    <string name="amt_enter">enter balance</string>
+
+    <string-array name="category">
+        <item>FOOD</item>
+        <item>SHOPPING</item>
+        <item>STUDIES</item>
+        <item>SELF CARE</item>
+        <item>OUTING</item>>
+        <item>OTHERS</item>>
+    </string-array>
+
+</resources>
